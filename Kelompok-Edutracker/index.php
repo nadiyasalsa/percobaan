@@ -15,6 +15,7 @@
             <img src="logoedutracker.png" alt="Logo EduTracker" width="150" class="mb-4">
             <h1 class="display-4 text-primary fw-bold">Selamat Datang di EduTracker</h1>
             <p class=" lead mb-5">Atur tugas dengan mudah, raih prestasi dengan cerdas!</p>
+            <p class=" lead mb-5"> ayo belajar!</p>
           
         </div>
 
